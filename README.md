@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [1021-remove-outermost-parentheses](https://github.com/UpLUX-DefensoTech/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/UpLUX-DefensoTech/LeetCode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Counting
 |  |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/UpLUX-DefensoTech/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [1021-remove-outermost-parentheses](https://github.com/UpLUX-DefensoTech/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 ## Math
 |  |
 | ------- |
