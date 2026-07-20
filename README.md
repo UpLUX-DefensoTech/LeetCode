@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0328-odd-even-linked-list](https://github.com/UpLUX-DefensoTech/LeetCode/tree/master/0328-odd-even-linked-list) |
 | [0705-design-hashset](https://github.com/UpLUX-DefensoTech/LeetCode/tree/master/0705-design-hashset) |
 | [0876-middle-of-the-linked-list](https://github.com/UpLUX-DefensoTech/LeetCode/tree/master/0876-middle-of-the-linked-list) |
+| [1019-next-greater-node-in-linked-list](https://github.com/UpLUX-DefensoTech/LeetCode/tree/master/1019-next-greater-node-in-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/UpLUX-DefensoTech/LeetCode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/UpLUX-DefensoTech/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/UpLUX-DefensoTech/LeetCode/tree/master/2487-remove-nodes-from-linked-list) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/UpLUX-DefensoTech/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [1019-next-greater-node-in-linked-list](https://github.com/UpLUX-DefensoTech/LeetCode/tree/master/1019-next-greater-node-in-linked-list) |
 | [1021-remove-outermost-parentheses](https://github.com/UpLUX-DefensoTech/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [2487-remove-nodes-from-linked-list](https://github.com/UpLUX-DefensoTech/LeetCode/tree/master/2487-remove-nodes-from-linked-list) |
 ## Math
@@ -79,11 +81,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [1019-next-greater-node-in-linked-list](https://github.com/UpLUX-DefensoTech/LeetCode/tree/master/1019-next-greater-node-in-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/UpLUX-DefensoTech/LeetCode/tree/master/2487-remove-nodes-from-linked-list) |
 ## Array
 |  |
 | ------- |
 | [0705-design-hashset](https://github.com/UpLUX-DefensoTech/LeetCode/tree/master/0705-design-hashset) |
+| [1019-next-greater-node-in-linked-list](https://github.com/UpLUX-DefensoTech/LeetCode/tree/master/1019-next-greater-node-in-linked-list) |
 ## Design
 |  |
 | ------- |
