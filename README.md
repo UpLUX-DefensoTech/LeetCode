@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/UpLUX-DefensoTech/LeetCode/tree/master/0001-two-sum) |
 | [0138-copy-list-with-random-pointer](https://github.com/UpLUX-DefensoTech/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/UpLUX-DefensoTech/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/UpLUX-DefensoTech/LeetCode/tree/master/0142-linked-list-cycle-ii) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/UpLUX-DefensoTech/LeetCode/tree/master/0001-two-sum) |
 | [0705-design-hashset](https://github.com/UpLUX-DefensoTech/LeetCode/tree/master/0705-design-hashset) |
 | [1019-next-greater-node-in-linked-list](https://github.com/UpLUX-DefensoTech/LeetCode/tree/master/1019-next-greater-node-in-linked-list) |
 ## Design
